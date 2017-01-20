@@ -1,6 +1,8 @@
 """
 Python Basics - Variables, Data Types, and Basic Operations
 This file covers fundamental Python concepts for beginners.
+
+Updated: Added more examples and improved documentation.
 """
 
 # ============================================
