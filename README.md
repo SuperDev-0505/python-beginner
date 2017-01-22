@@ -2,6 +2,8 @@
 
 A comprehensive collection of Python examples for beginners covering fundamental concepts and practical projects.
 
+**Note**: This repository is actively maintained and updated regularly.
+
 ## 📚 Table of Contents
 
 1. [Basics](#01-basicspy) - Variables, data types, and basic operations
