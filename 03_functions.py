@@ -1,6 +1,8 @@
 """
 Functions - Reusable Blocks of Code
 Learn how to create and use functions in Python.
+
+Updated: Enhanced examples with better explanations.
 """
 
 # ============================================
