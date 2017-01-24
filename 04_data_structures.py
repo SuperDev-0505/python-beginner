@@ -1,6 +1,8 @@
 """
 Data Structures - Lists, Tuples, Dictionaries, and Sets
 Learn about Python's built-in data structures.
+
+Updated: Added more comprehensive examples.
 """
 
 # ============================================
