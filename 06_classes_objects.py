@@ -1,6 +1,8 @@
 """
 Classes and Objects - Object-Oriented Programming
 Learn how to create classes and work with objects in Python.
+
+Updated: Added inheritance and polymorphism examples.
 """
 
 # ============================================
