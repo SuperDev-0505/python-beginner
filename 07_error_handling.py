@@ -1,6 +1,8 @@
 """
 Error Handling - Try/Except and Exception Handling
 Learn how to handle errors gracefully in Python.
+
+Updated: Added custom exception examples.
 """
 
 # ============================================
