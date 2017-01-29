@@ -1,6 +1,8 @@
 """
 Modules and Packages - Code Organization
 Learn how to organize code using modules and packages.
+
+Updated: Added more standard library examples.
 """
 
 # ============================================
